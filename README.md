@@ -3,15 +3,15 @@
 
 ## Discussion Material
 Query SQL
-- `CREATE DATABASE`, Creating a database syntax/query
-- `USE`, Using access database after create
-- `CREATE TABLE`, Creating Table into database after Database is created and accessed database is selected
-- `SHOW TABLES`, Show some table if table is exist in database
-- `SHOW DATABASES`, Show database if database is exist in MySQL Server / DBMS (Database Management System)
-- `DROP TABLE`, Delete choosen table in database
-- `DROP DATABASE`, Drop choosen database
-- `SELECT`, Extracts data from table in database
-- `UPDATE`, Update data from table in database
-- `DELETE`, Delete data from table in database
-- `INSERT INTO` , Insert data to table is selected in database
-- `ALTER TABLE`, Modifies a database
+- `CREATE DATABASE`, <u>Creating a database</u> syntax/query
+- `USE`, Using <u>access database</u> after create
+- `CREATE TABLE`, <u>Creating Table</u> into database after Database is created and accessed database is selected
+- `SHOW TABLES`, <u>Show some table</u> if table is exist in database
+- `SHOW DATABASES`, <u>Show database</u> if database is exist in MySQL Server / DBMS (Database Management System)
+- `DROP TABLE`, <u>Delete choosen table</u> in database
+- `DROP DATABASE`, <u>Drop choosen database</u>
+- `SELECT`, <u>Extracts data from table</u> in database
+- `UPDATE`, <u>Update data from table</u> in database
+- `DELETE`, <u>Delete data from table</u> in database
+- `INSERT INTO` , <u>Insert data into table</u> is selected in database
+- `ALTER TABLE`, <u>Modifies a database</u>
