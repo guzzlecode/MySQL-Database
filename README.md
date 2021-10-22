@@ -3,7 +3,7 @@
 
 ## Discussion Material
 Query SQL
-- `CREATE DATABASE`, <u>Creating a database</u> syntax/query
+- <a href="https://github.com/guzzlecode/MySQL-Database/wiki/Query-%231-:-Create-Database-Syntax">`CREATE DATABASE`</a>, <u>Creating a database</u> syntax/query
 - `USE`, Using <u>access database</u> after create
 - `CREATE TABLE`, <u>Creating Table</u> into database after Database is created and accessed database is selected
 - `SHOW TABLES`, <u>Show some table</u> if table is exist in database
