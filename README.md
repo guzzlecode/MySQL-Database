@@ -4,14 +4,14 @@
 ## Discussion Material
 Query SQL
 - <a href="https://github.com/guzzlecode/MySQL-Database/wiki/Query-%231-:-Create-Database-Syntax">`CREATE DATABASE`</a>, <b>Creating a database</b> syntax/query
-- `USE`, Using <u>access database</u> after create
-- `CREATE TABLE`, <u>Creating Table</u> into database after Database is created and accessed database is selected
-- `SHOW TABLES`, <u>Show some table</u> if table is exist in database
-- `SHOW DATABASES`, <u>Show database</u> if database is exist in MySQL Server / DBMS (Database Management System)
-- `DROP TABLE`, <u>Delete choosen table</u> in database
-- `DROP DATABASE`, <u>Drop choosen database</u>
-- `SELECT`, <u>Extracts data from table</u> in database
-- `UPDATE`, <u>Update data from table</u> in database
-- `DELETE`, <u>Delete data from table</u> in database
-- `INSERT INTO` , <u>Insert data into table</u> is selected in database
-- `ALTER TABLE`, <u>Modifies a database</u>
+- `USE`, Using <b>access database</b> after create
+- `CREATE TABLE`, <b>Creating Table</b> into database after Database is created and accessed database is selected
+- `SHOW TABLES`, <b>Show some table</b> if table is exist in database
+- `SHOW DATABASES`, <b>Show database</b> if database is exist in MySQL Server / DBMS (Database Management System)
+- `DROP TABLE`, <b>Delete choosen table</b> in database
+- `DROP DATABASE`, <b>Drop choosen database</b>
+- `SELECT`, <b>Extracts data from table</b> in database
+- `UPDATE`, <b>Update data from table</b> in database
+- `DELETE`, <b>Delete data from table</b> in database
+- `INSERT INTO` , <b>Insert data into table</b> is selected in database
+- `ALTER TABLE`, <b>Modifies a database</b>
